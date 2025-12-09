@@ -1,6 +1,6 @@
 # Data Structures
 
-This repository contains my projects and exercises from the **Data Structures (Estructuras de Datos)** course in the **Computer Engineering** degree at the **Universidad Complutense de Madrid**.
+This repository contains some of the many projects and exercises from the **Data Structures (Estructuras de Datos)** course in the **Computer Engineering** degree at the **Universidad Complutense de Madrid**.
 
 
 ## Topics Covered
@@ -13,5 +13,4 @@ This repository contains my projects and exercises from the **Data Structures (E
 ## What’s in this repo
 - Implementations of core data structures  
 - Practical assignments and exercises  
-- Problem-solving examples from the course
 
